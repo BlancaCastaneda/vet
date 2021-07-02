@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
     
-      <Router>
+      <Router basename={Process.env.PUBLIC_URL}>
             <Switch>
 
               <Route path="/equipo">
