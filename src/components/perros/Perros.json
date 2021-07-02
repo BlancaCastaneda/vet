@@ -1,0 +1,39 @@
+{
+    "perros":[
+        {
+            "id": 1, 
+            "raza": "Bichón boloñés",
+            "thumbnail":"https://cdn.royalcanin-weshare-online.io/u_pKHWsBIYfdNSoCOxqf/v1/bd33bl-hub-bolognese-adult-standing?w=320&auto=compress&fm=jpg",
+            "imagen":"cachorro.jpg",
+            "descripcion":"Estos perros muy serios son tranquilos, apacibles y muy apegados a sus compañeros humanos.",
+            "acercade":"<h4>Estos perros tan entrañables</h4> ,que tienen una expresión tan seria, son conocidos por su inteligencia, naturaleza observadora y disposición tranquila. La personalidad cómica y naturaleza curiosa los convierten en perros familiares muy queridos. <br/> Ya sea acurrucado en casa o paseando, el bichón boloñés es un perro devoto al que lo que más le gusta es estar cerca de la familia humana..",
+            "pais":"Italia",
+            "tamano":"Muy pequeño",
+            "vida":"12-14 años"
+        },
+
+        {
+            "id": 2, 
+            "raza": "American Staffordshire terrier",
+            "thumbnail":"https://cdn.royalcanin-weshare-online.io/8iLJxWoBaxEApS7L-RuR/v3/bd126bl-hub-american-staffordshire-terrier-adult-standing?w=320&auto=compress&fm=jpg",
+            "imagen":"cachorro1.jpg",
+            "descripcion":"Los American Staffordshire terriers son excelentes guardianes, debido a su inteligencia y lealtad.",
+            "acercade":"<h4>El American Staffordshire terrier</h4>, fuerte, atlético y valiente, es ideal para entrenamientos de obediencia y agilidad. El American Staffordshire terrier es una raza muy afectuosa y sociable con las personas. Ama pasar el tiempo con su compañero humano. <br/> Esta raza es amante de la diversión y ha pasado de ser un antiguo ancestro del pit bull terrier a ser un perro familiar mucho más dócil que se lleva bien con otras mascotas, niños y adultos.",
+            "pais":"Estados Unidos",
+            "tamano":"Mediano",
+            "vida":"12-14 años"
+        },
+
+        {
+            "id": 3, 
+            "raza": "Boyero de Berna",
+            "thumbnail":"https://cdn.royalcanin-weshare-online.io/qPotHWsBIYfdNSoCPRp3/v1/bd18bl-hub-bernese-mountain-dog-adult-standing?w=320&auto=compress&fm=jpg",
+            "imagen":"chiguagua.jpg",
+            "descripcion":"Los boyeros de Berna son populares por su hermoso pelaje y carácter bonachón..",
+            "acercade":"<h4>Originalmente usados como perros...</h4> guardianes y de ganado en granjas en la región de Berna, Suiza, los boyeros de Berna son animales de trabajo versátiles y mascotas familiares muy queridas. Su impresionante pelaje tricolor y su gran adaptabilidad les han significado un lugar en el corazón de las familias de todo el mundo. <br/> Bien equilibrados, atentos, vigilantes y valientes en situaciones cotidianas, son mansos y leales con las personas que conocen, mientras que son seguros de sí mismos y tranquilos con los extraños.",
+            "pais":"Suiza",
+            "tamano":"Gigantes",
+            "vida":"8 años"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	border: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.menu{
+    background-color: rgb(75,29,95);
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    padding-right: 20px; 
+}
+
+ .menu li{
+    max-width: 150px;
+    width:100%;
+    text-align: center;
+    line-height: 35px;
+    border-right: 1px solid #ffffff;
+    font-size: 14px;
+ }
+.menu li a{
+    color: white;
+    text-decoration: none;
+    
+    }
+
+
+.menu a:link{
+    color:white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.menu a:hover{
+		color:#0A7FAB;
+		font-weight: bold;
+		text-decoration: none;
+	}

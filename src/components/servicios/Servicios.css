@@ -1,0 +1,102 @@
+*{
+	margin: 0;
+	padding: 0;
+	border:0;
+	box-sizing: border-box;
+}
+.container{
+	width: 100%;
+	margin: 0 auto;
+}
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#servicios{
+    width: 100%;
+    min-height: 250px;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.title{
+    text-align: center;
+    color: rgb(75,29,95);
+	text-shadow: 3px 3px 5px black;
+    min-height: 80px;
+    height: 100%;
+    padding: 20px;
+           
+}
+
+.title hr{
+    margin: 10px auto;
+	width: 25%;
+	border:2px solid #6BFAEE;
+
+}
+
+.paciente{
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.paciente img{
+    width: 150px;
+}
+
+.paciente p{
+    text-align: justify;
+}
+
+.paciente h4{
+    color: rgb(75,29,95) ;
+}
+
+.veterinario{
+    margin: auto;
+    padding: 20px;
+}
+
+.veterinario img{
+    width: 150px;
+}
+
+.veterinario p{
+    text-align: justify;
+}
+
+.veterinario h4{
+    color: rgb(75,29,95) ;
+}
+
+.vacuna{
+    margin: auto;
+    padding: 20px;
+}
+
+.vacuna img{
+    width: 150px;
+}
+
+.vacuna p{
+    text-align: justify;
+}
+
+.vacuna h4{
+    color: rgb(75,29,95) ;
+}
